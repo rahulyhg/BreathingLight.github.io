@@ -1,3 +1,6 @@
+.gitignore
+/node_modules
+
 //notes on mysql update:
 
 A CA file has been bootstrapped using certificates from the SystemRoots
